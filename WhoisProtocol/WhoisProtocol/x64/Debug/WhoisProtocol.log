@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\WORK\KSIS\Lab3\WhoisProtocol\WhoisProtocol\Source.cpp(68,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\WORK\KSIS\Lab3\WhoisProtocol\WhoisProtocol\Source.cpp(18,10): warning C4101: sendbuf: неиспользованная локальная переменная
+  WhoisProtocol.vcxproj -> E:\WORK\KSIS\Lab3\WhoisProtocol\x64\Debug\WhoisProtocol.exe
